@@ -94,9 +94,6 @@ img{
 }
 
 @media (max-width: 768px) {
-    .reseaux {
-        display: none;
-    }
     .grid {
         display: block;
     }
@@ -364,7 +361,7 @@ nav ul li a:hover {
 
 .corpus a {
     text-decoration: none;
-    color: #ffd719;
+    /* color: #ffd719; */
     font-weight: bolder;
     font-style: italic;
 }
@@ -472,7 +469,7 @@ nav ul li a:hover {
     }
 
     .tohide {
-        display: none;
+        display: none; /* A pour objectif de cacher l'ensemble des éléments qui ne passent pas bien sur de petits écrans */
     }
 
     .grid-travaux {
