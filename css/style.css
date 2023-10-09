@@ -419,7 +419,7 @@ nav ul li a:hover {
 
 .grid-cp {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 1em;
     grid-auto-rows: minmax(1em, auto);
     color: #1ac;
