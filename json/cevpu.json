@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "NGO",
+    "name": "Conférence nationale des étudiants vice-présidents d'université",
+    "alternateName": "CEVPU",
+    "url": "https://www.cevpu.org",
+    "logo": "https://maydayfestival.fr/images/CEVPU_Communication_Logo_Court.webp",
+    "sameAs": [
+      "https://twitter.com/CEVPU",
+      "https://www.instagram.com/cevpu_/",
+      "https://www.linkedin.com/company/cevpu/"
+    ],
+    "description": "La CEVPU est une structure de mutualisation et d’expertise au service de tous les acteurs de l’enseignement supérieur. Elle rassemble les étudiants vice-présidents d'université françaises.",
+    "contactPoint": {
+        "@type": "Adresse de contact",
+        "email": "contact@cevpu.org"
+    },
+    "foundingDate": "2001-09-30",
+    "organizer": [
+      {
+        "@type": "Person",
+        "name": "Sacha Duperret"
+      },
+      {
+        "@type": "Person",
+        "name": "Amal Qobaa"
+      },
+      {
+        "@type": "Person",
+        "name": "Louise Schaller"
+      },
+      {
+        "@type": "Person",
+        "name": "Ugo Beillard-bevilacqua"
+      },
+      {
+        "@type": "Person",
+        "name": "Esteban Bougeard"
+      },
+      {
+        "@type": "Person",
+        "name": "Enora Lorcy"
+      }
+    ],
+    "alumni": [
+        {
+            "@type": "Person",
+            "name": "Sacha Duperret"
+        },
+        {
+            "@type": "Person",
+            "name": "Amal Qobaa"
+        },
+        {
+            "@type": "Person",
+            "name": "Louise Schaller"
+        },
+        {
+            "@type": "Person",
+            "name": "Ugo Beillard-bevilacqua"
+        },
+        {
+            "@type": "Person",
+            "name": "Esteban Bougeard"
+        },
+        {
+            "@type": "Person",
+            "name": "Enora Lorcy"
+        }
+    ],
+    "historicalEvent": {
+      "@type": "Event",
+      "name": "Histoire et tradition",
+      "description": "Le festival Mayday en est à sa 6e édition. Venez la partager avec nous !"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "0"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "reviewBody": "Une structure qui propose des rencontres et des échanges de qualité. Un vrai plus pour les étudiants vice-présidents d'université."
+    }
+  }
