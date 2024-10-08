@@ -68,11 +68,6 @@
             "name": "Enora Lorcy"
         }
     ],
-    "historicalEvent": {
-      "@type": "Event",
-      "name": "Histoire et tradition",
-      "description": "Le festival Mayday en est à sa 6e édition. Venez la partager avec nous !"
-    },
     "review": {
       "@type": "Review",
       "reviewRating": {
